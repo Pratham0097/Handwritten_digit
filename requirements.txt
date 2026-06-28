@@ -1,6 +1,6 @@
-streamlit==1.46.0
-numpy==1.26.4
-opencv-python-headless==4.10.0.84
-tensorflow-cpu==2.19.0
-streamlit-drawable-canvas==0.9.3
-h5py==3.13.0
+streamlit
+numpy
+opencv-python-headless
+tensorflow
+streamlit-drawable-canvas
+h5py
